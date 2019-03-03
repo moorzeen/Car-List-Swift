@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Список автомобилей"; ObjectID = "N32-FC-GG6"; */
+"N32-FC-GG6.normalTitle" = "Список автомобилей";
+
+/* Class = "UIButton"; normalTitle = "Классы"; ObjectID = "Ucb-hf-ZpX"; */
+"Ucb-hf-ZpX.normalTitle" = "Классы";
+
+/* Class = "UITableViewController"; title = "Автомобили"; ObjectID = "Vol-jv-RKP"; */
+"Vol-jv-RKP.title" = "Автомобили";
+
+/* Class = "UIButton"; normalTitle = "Типы кузова"; ObjectID = "nPr-CM-94c"; */
+"nPr-CM-94c.normalTitle" = "Типы кузова";
